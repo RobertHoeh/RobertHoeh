@@ -1,6 +1,6 @@
 # Robert Hoeh
 Hi, I'm currently in high school at a stem magnet!
-I am a he/him
+I am the real president of coding club too!
 ## Things I have some experience in:
 * Python
 * Javascript
