@@ -4,7 +4,7 @@ I am the current president of coding club too!
 
 I'm also one of the main contributors of [wecan2](https://github.com/WheelerCodingClub/wecan2), the Wheeler Coding Club group project.
 
-## Other Sites
+## My profiles on other sites
 * [Replit](https://replit.com/@RobertHoeh)
 * [Code Golf](https://code.golf/golfers/RobertHoeh)
 
