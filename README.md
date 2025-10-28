@@ -1,21 +1,17 @@
 # Robert Hoeh
-Hi, I'm currently in high school at a stem magnet!
-I am the current president of coding club too!
+Hello, I am currently attending KSU working on my Bachelor's of Science in Software Engineering
 
-I'm also one of the main contributors of [wecan2](https://github.com/WheelerCodingClub/wecan2), the Wheeler Coding Club group project.
+I was also one of the main contributors of [wecan2](https://github.com/WheelerCodingClub/wecan2), the Wheeler Coding Club group project.
 
 ## My profiles on other sites
-* [Replit](https://replit.com/@RobertHoeh)
+* [Handshake](https://kennesaw.joinhandshake.com/profiles/yc3mpw)
 * [Code Golf](https://code.golf/golfers/RobertHoeh)
 
-## Things I have some experience in:
+## Things I have experience in:
 * Python
 * Javascript
-* web dev
+* Web Development
 * Svelte/kit
-* HTML + CSS
-* A small amount of the following
-  * C++
-  * haskell
-  * gamedev
-  * java
+* HTML & CSS
+* Java & Kotlin
+* Figma
