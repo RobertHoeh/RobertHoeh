@@ -15,3 +15,13 @@ I was also one of the main contributors of [wecan2](https://github.com/WheelerCo
 * HTML & CSS
 * Java & Kotlin
 * Figma
+* Flask
+* Vending Machines (I'm not kidding)
+
+## Small amount of Experience in:
+* Godot
+* Unity
+* C#
+* C++
+* Haskell
+* Minecraft modding
